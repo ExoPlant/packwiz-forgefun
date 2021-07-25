@@ -1,0 +1,12 @@
+name = "Forge Fun"
+author = "Exo"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0902b083e34a6ea0d3fe2e415216369a7ef51d69fd3855ed665df2308fef821c"
+
+[versions]
+forge = "36.0.0"
+minecraft = "1.16.5"

@@ -1,0 +1,113 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".git/COMMIT_EDITMSG"
+hash = "00d75b5176b48ccc71d91bcc1d7b90fc2820429b1629b77fd1d5f4c5dcee4f6d"
+
+[[files]]
+file = ".git/HEAD"
+hash = "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+
+[[files]]
+file = ".git/config"
+hash = "1deafeb625c0718fd051066373cc64c65e6d5895cddd5bf81d58eac51841e0aa"
+
+[[files]]
+file = ".git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = ".git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = ".git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = ".git/hooks/fsmonitor-watchman.sample"
+hash = "f3c0228d8e827f1c5260ac59fdd92c3d425c46e54711ef713c5a54ae0a4db2b4"
+
+[[files]]
+file = ".git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = ".git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = ".git/hooks/pre-commit.sample"
+hash = "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+
+[[files]]
+file = ".git/hooks/pre-merge-commit.sample"
+hash = "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+
+[[files]]
+file = ".git/hooks/pre-push.sample"
+hash = "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+
+[[files]]
+file = ".git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = ".git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = ".git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = ".git/hooks/push-to-checkout.sample"
+hash = "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+
+[[files]]
+file = ".git/hooks/update.sample"
+hash = "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+
+[[files]]
+file = ".git/index"
+hash = "9935dc279c2881ec302c182cb9347a2eaad3447a5f86580d779285e7483ac81b"
+
+[[files]]
+file = ".git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = ".git/logs/HEAD"
+hash = "2b927172128a1a3be569005038e76a76b95e6789d1f8da9791fe6dea45c0c22b"
+
+[[files]]
+file = ".git/logs/refs/heads/main"
+hash = "8d839945416acf1b6c1640df40189ee9d5b39ef4b406a70416ad45570ea2c085"
+
+[[files]]
+file = ".git/logs/refs/remotes/origin/main"
+hash = "37a609e20aeaa0cf1d429a4147465db3e25fd606a45996144bc58b22619ca580"
+
+[[files]]
+file = ".git/objects/cf/990fb5416d22bf4cbd842cfb992c2f76e62c14"
+hash = "3c7fca8bbbb770693680051beed0444adb48616aeb283caea4dac134f8028acf"
+
+[[files]]
+file = ".git/objects/df/f5102341886d940f9c643b74927d301215f6c7"
+hash = "77ddf199506dc89fa111ca2024986c4de51c6e05e635546c6320d3f49946a178"
+
+[[files]]
+file = ".git/objects/f6/7a9719352d7e7f619457c238b6e6d28e74d9de"
+hash = "7ef6a596328bc6c38a3f318238996f98629b67c8b0e56014873efb6db0261743"
+
+[[files]]
+file = ".git/refs/heads/main"
+hash = "e319c448d8208429fb07cfa0d2a8b348bc21d5e83b89c95a3e840ba34f7a28ef"
+
+[[files]]
+file = ".git/refs/remotes/origin/main"
+hash = "e319c448d8208429fb07cfa0d2a8b348bc21d5e83b89c95a3e840ba34f7a28ef"
+
+[[files]]
+file = "README.md"
+hash = "d743d00fb6a062e678c514402d21fe4e9a2bc366f69350ef034b5b15ceb30ff3"
