@@ -1,14 +1,14 @@
 name = "Silent Lib (silentlib)"
-filename = "SilentLib-1.16.3-4.9.1+64.jar"
+filename = "silent-lib-1.16.3-4.9.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3165/746/SilentLib-1.16.3-4.9.1+64.jar"
+url = "https://edge.forgecdn.net/files/3235/738/silent-lib-1.16.3-4.9.6.jar"
 hash-format = "murmur2"
-hash = "393063625"
+hash = "2198738089"
 
 [update]
 [update.curseforge]
-file-id = 3165746
+file-id = 3235738
 project-id = 242998
 release-channel = "beta"

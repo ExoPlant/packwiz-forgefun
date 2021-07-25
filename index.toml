@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-lib.toml"
-hash = "fc236dc8598388490a46b4f834f0d6a4aa3a6220e6517e947d7370d7d6678d3c"
+hash = "eb14d20dfc02898e42d8bfc99a91dbb4c16756d1afea3ff9b4c7a4488ca3106a"
 metafile = true
 
 [[files]]
