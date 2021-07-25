@@ -1,0 +1,14 @@
+name = "Mob Grinding Utils"
+filename = "mob_grinding_utils-1.16.5-0.4.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3361/660/mob_grinding_utils-1.16.5-0.4.23.jar"
+hash-format = "murmur2"
+hash = "2930250344"
+
+[update]
+[update.curseforge]
+file-id = 3361660
+project-id = 254241
+release-channel = "beta"

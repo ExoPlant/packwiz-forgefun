@@ -1,0 +1,14 @@
+name = "Silent Gear"
+filename = "silent-gear-1.16.5-2.6.30.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3386/805/silent-gear-1.16.5-2.6.30.jar"
+hash-format = "murmur2"
+hash = "1817763837"
+
+[update]
+[update.curseforge]
+file-id = 3386805
+project-id = 297039
+release-channel = "beta"

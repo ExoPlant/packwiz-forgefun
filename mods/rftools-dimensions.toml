@@ -1,0 +1,14 @@
+name = "RFTools Dimensions"
+filename = "rftoolsdim-1.16-7.0.11-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3382/163/rftoolsdim-1.16-7.0.11-beta.jar"
+hash-format = "murmur2"
+hash = "2889443222"
+
+[update]
+[update.curseforge]
+file-id = 3382163
+project-id = 240950
+release-channel = "beta"

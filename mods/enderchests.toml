@@ -1,0 +1,14 @@
+name = "EnderChests"
+filename = "enderchests-1.16-1.7.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3210/475/enderchests-1.16-1.7.7.jar"
+hash-format = "murmur2"
+hash = "3973277109"
+
+[update]
+[update.curseforge]
+file-id = 3210475
+project-id = 363535
+release-channel = "beta"

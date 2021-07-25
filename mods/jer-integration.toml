@@ -1,0 +1,14 @@
+name = "JER Integration"
+filename = "JER-Integration-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3396/98/JER-Integration-1.0.0.jar"
+hash-format = "murmur2"
+hash = "4195606934"
+
+[update]
+[update.curseforge]
+file-id = 3396098
+project-id = 506948
+release-channel = "beta"

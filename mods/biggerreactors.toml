@@ -1,0 +1,14 @@
+name = "Bigger Reactors"
+filename = "biggerreactors-1.16.5-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3397/408/biggerreactors-1.16.5-0.5.0.jar"
+hash-format = "murmur2"
+hash = "3117946536"
+
+[update]
+[update.curseforge]
+file-id = 3397408
+project-id = 407780
+release-channel = "beta"

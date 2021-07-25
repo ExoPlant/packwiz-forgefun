@@ -1,0 +1,14 @@
+name = "terraria ropes!"
+filename = "Terraria Ropes! 1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3302/766/Terraria Ropes! 1.1.0.jar"
+hash-format = "murmur2"
+hash = "633878667"
+
+[update]
+[update.curseforge]
+file-id = 3302766
+project-id = 460873
+release-channel = "beta"

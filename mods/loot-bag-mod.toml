@@ -1,0 +1,14 @@
+name = "Loot Bag Mod"
+filename = "lootbagmod-1.16.5-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3384/532/lootbagmod-1.16.5-2.3.1.jar"
+hash-format = "murmur2"
+hash = "1128413441"
+
+[update]
+[update.curseforge]
+file-id = 3384532
+project-id = 356236
+release-channel = "beta"

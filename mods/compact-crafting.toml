@@ -1,0 +1,14 @@
+name = "Compact Crafting"
+filename = "compactcrafting-1.0.0-beta.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/414/compactcrafting-1.0.0-beta.3.jar"
+hash-format = "murmur2"
+hash = "824721554"
+
+[update]
+[update.curseforge]
+file-id = 3348414
+project-id = 429735
+release-channel = "beta"

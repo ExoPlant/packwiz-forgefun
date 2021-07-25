@@ -1,0 +1,14 @@
+name = "Potions Master"
+filename = "potionsmaster-0.2.2-1.16.5-36.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/230/potionsmaster-0.2.2-1.16.5-36.1.0.jar"
+hash-format = "murmur2"
+hash = "1739724012"
+
+[update]
+[update.curseforge]
+file-id = 3393230
+project-id = 356801
+release-channel = "beta"

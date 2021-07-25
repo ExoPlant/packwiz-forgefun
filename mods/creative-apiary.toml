@@ -1,0 +1,14 @@
+name = "Creative Apiary"
+filename = "creativeapiary-1.16.5-1.62.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3295/682/creativeapiary-1.16.5-1.62.jar"
+hash-format = "murmur2"
+hash = "3996037280"
+
+[update]
+[update.curseforge]
+file-id = 3295682
+project-id = 459706
+release-channel = "beta"

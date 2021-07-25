@@ -1,0 +1,14 @@
+name = "Entangled"
+filename = "entangled-1.3.6-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3390/770/entangled-1.3.6-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "2263250420"
+
+[update]
+[update.curseforge]
+file-id = 3390770
+project-id = 301034
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Resourceful Bees"
+filename = "ResourcefulBees-1.16.5-0.6.7.2b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3281/371/ResourcefulBees-1.16.5-0.6.7.2b.jar"
+hash-format = "murmur2"
+hash = "2504255869"
+
+[update]
+[update.curseforge]
+file-id = 3281371
+project-id = 384508
+release-channel = "beta"

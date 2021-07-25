@@ -1,0 +1,14 @@
+name = "Creative Wireless Transmitter"
+filename = "creativewirelesstransmitter-1.16x-1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3342/327/creativewirelesstransmitter-1.16x-1.11.jar"
+hash-format = "murmur2"
+hash = "4051431873"
+
+[update]
+[update.curseforge]
+file-id = 3342327
+project-id = 452645
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Evgen's Battletower"
+filename = "Evgens Battletowers 1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3273/828/Evgens Battletowers 1.16.5.jar"
+hash-format = "murmur2"
+hash = "2054581665"
+
+[update]
+[update.curseforge]
+file-id = 3273828
+project-id = 470120
+release-channel = "beta"

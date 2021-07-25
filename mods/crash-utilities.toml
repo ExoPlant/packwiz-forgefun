@@ -1,0 +1,14 @@
+name = "Crash Utilities"
+filename = "crashutilities-3.11.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3306/707/crashutilities-3.11.1.jar"
+hash-format = "murmur2"
+hash = "471255567"
+
+[update]
+[update.curseforge]
+file-id = 3306707
+project-id = 371813
+release-channel = "beta"

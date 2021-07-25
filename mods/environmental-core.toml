@@ -1,0 +1,14 @@
+name = "Environmental Core"
+filename = "envirocore-1.16.5-3.0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3380/278/envirocore-1.16.5-3.0.9.1.jar"
+hash-format = "murmur2"
+hash = "140971011"
+
+[update]
+[update.curseforge]
+file-id = 3380278
+project-id = 345795
+release-channel = "beta"

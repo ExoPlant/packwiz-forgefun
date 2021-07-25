@@ -1,0 +1,14 @@
+name = "Allthemodium"
+filename = "allthemodium-1.5.8-1.16.5-36.1.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/540/allthemodium-1.5.8-1.16.5-36.1.23.jar"
+hash-format = "murmur2"
+hash = "2934995696"
+
+[update]
+[update.curseforge]
+file-id = 3394540
+project-id = 364466
+release-channel = "beta"

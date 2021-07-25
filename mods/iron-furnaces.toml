@@ -1,0 +1,14 @@
+name = "Iron Furnaces [FORGE]"
+filename = "ironfurnaces-1.16.5-2.6.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3387/531/ironfurnaces-1.16.5-2.6.9.jar"
+hash-format = "murmur2"
+hash = "182218746"
+
+[update]
+[update.curseforge]
+file-id = 3387531
+project-id = 237664
+release-channel = "beta"

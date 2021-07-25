@@ -1,0 +1,14 @@
+name = "Bag of Yurting"
+filename = "bagofyurting-1.16.4-1.2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3303/859/bagofyurting-1.16.4-1.2.0.1.jar"
+hash-format = "murmur2"
+hash = "3895720802"
+
+[update]
+[update.curseforge]
+file-id = 3303859
+project-id = 381068
+release-channel = "beta"

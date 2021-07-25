@@ -1,0 +1,14 @@
+name = "Creative Crafter"
+filename = "creativecrafter-1.16x-0.151.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3365/339/creativecrafter-1.16x-0.151.jar"
+hash-format = "murmur2"
+hash = "2272894155"
+
+[update]
+[update.curseforge]
+file-id = 3365339
+project-id = 461245
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "ATM: Additions"
+filename = "atmadditions-1.16.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3041/948/atmadditions-1.16.2-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1768492287"
+
+[update]
+[update.curseforge]
+file-id = 3041948
+project-id = 366055
+release-channel = "beta"

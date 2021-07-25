@@ -1,0 +1,14 @@
+name = "Environmental Materials"
+filename = "enviromats-1.16.5-2.0.9.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3362/954/enviromats-1.16.5-2.0.9.0.jar"
+hash-format = "murmur2"
+hash = "2576318261"
+
+[update]
+[update.curseforge]
+file-id = 3362954
+project-id = 278825
+release-channel = "beta"

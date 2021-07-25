@@ -1,0 +1,14 @@
+name = "Pipez"
+filename = "pipez-1.16.5-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3273/405/pipez-1.16.5-1.2.7.jar"
+hash-format = "murmur2"
+hash = "339432396"
+
+[update]
+[update.curseforge]
+file-id = 3273405
+project-id = 443900
+release-channel = "beta"

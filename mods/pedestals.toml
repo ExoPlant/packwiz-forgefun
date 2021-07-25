@@ -1,0 +1,14 @@
+name = "Pedestals"
+filename = "pedestals-0.8s_hotfix_5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3399/989/pedestals-0.8s_hotfix_5.jar"
+hash-format = "murmur2"
+hash = "38470276"
+
+[update]
+[update.curseforge]
+file-id = 3399989
+project-id = 392039
+release-channel = "beta"
