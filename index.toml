@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "d743d00fb6a062e678c514402d21fe4e9a2bc366f69350ef034b5b15ceb30ff3"
-
-[[files]]
 file = "mods/abnormals-core.toml"
 hash = "165683bc82b6b8f3f10f78c16055dfe8fd6dc382dc755336b54173e3231de182"
 metafile = true
